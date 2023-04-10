@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865512864902",
+    "project_id": "jamaahappflutter",
+    "storage_bucket": "jamaahappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865512864902:android:e07be967f7ecc78f9f2507",
+        "android_client_info": {
+          "package_name": "com.example.jamaah_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865512864902-b2gallqeptmv9fohqmhqvadavsh5eq9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvLdbhMw_CugIpKtlKNPii5JY9jmL5e2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865512864902-b2gallqeptmv9fohqmhqvadavsh5eq9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
