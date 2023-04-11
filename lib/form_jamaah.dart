@@ -154,7 +154,7 @@ class _FormJamaahState extends State<FormJamaah> {
             child: ElevatedButton(
               child: (widget.jamaah == null)
                   ? Text(
-                      'Add',
+                      'Tambah',
                       style: TextStyle(color: Colors.white),
                     )
                   : Text(
